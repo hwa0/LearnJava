@@ -10,19 +10,19 @@ class Solution {
     fun solution(month : Int, day : Int): String {
         checkNumber(month, day)
         cal.set(Calendar.YEAR, 2016)
-        cal.set(Calendar.MONTH, month)
+        cal.set(Calendar.MONTH, month-1)
         cal.set(Calendar.DAY_OF_MONTH, day)
 
         weekday = cal.get(Calendar.DAY_OF_WEEK)
 
         when(weekday){
-            0 -> answer = "SUN"
-            1 -> answer = "MON"
-            2 -> answer = "TUE"
-            3 -> answer = "WED"
-            4 -> answer = "THU"
-            5 -> answer = "FRI"
-            6 -> answer = "SAT"
+            1 -> answer = "SUN"
+            2 -> answer = "MON"
+            3 -> answer = "TUE"
+            4 -> answer = "WED"
+            5 -> answer = "THU"
+            6 -> answer = "FRI"
+            7 -> answer = "SAT"
         }
         return answer
     }
