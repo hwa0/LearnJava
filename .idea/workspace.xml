@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e6c741-f95d-4b60-852e-3065d2d99056" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/firstLearningJava/src/Test18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/src/CalendarKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/CalendarKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Kotlin.CalendarKotlinKt">
+  <component name="RunManager" selected="Application.Test18">
     <configuration name="CalendarAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalendarAlgorithm" />
       <module name="algorithm" />
@@ -44,6 +44,13 @@
     <configuration name="DFSAdjArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFSAdjArr" />
       <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test18" />
+      <module name="firstLearningJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -63,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test18" />
         <item itemvalue="Kotlin.CalendarKotlinKt" />
         <item itemvalue="Application.CalendarAlgorithm" />
         <item itemvalue="Application.DFSAdjArr" />
@@ -115,10 +123,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Calendar Algorithm solution" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2728" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582618637452">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="707" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584026432515">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="2728" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582618637452" />
+    <state x="707" y="402" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.963@0.23.1680.963" timestamp="1584026432515" />
     <state x="2524" y="114" key="CommitChangelistDialog2" timestamp="1582620963322">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -127,22 +136,26 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582532838491" />
-    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1582620990208">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="819" height="189" key="GridCell.Tab.0.bottom" timestamp="1583159818424">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582620990208" />
-    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1582620990207">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="819" height="189" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1583159818424" />
+    <state width="819" height="189" key="GridCell.Tab.0.center" timestamp="1583159818423">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582620990207" />
-    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1582620990207">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="819" height="189" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1583159818423" />
+    <state width="819" height="189" key="GridCell.Tab.0.left" timestamp="1583159818423">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582620990207" />
-    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1582620990207">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="819" height="189" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1583159818423" />
+    <state width="819" height="189" key="GridCell.Tab.0.right" timestamp="1583159818424">
+      <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582620990207" />
+    <state width="819" height="189" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1583159818424" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1582620990208">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
